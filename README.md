@@ -1,4 +1,4 @@
-Hi My name is Kaustubh Jogle <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+Hi, my name is Kaustubh Jogle <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 ===============================
 
 I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning Web development
@@ -6,7 +6,9 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 * ✉️  You can contact me at [kaustubhrjogle@gmail.com](mailto:kaustubhrjogle@gmail.com)
 * ⚡  Computer Engineering | TSEC '23
 
-### Skills
+<hr>
+
+<h3 align="center">Skills</h3>
 
 <p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -16,9 +18,9 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
+<hr>
 
-### Connect with Me
-
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/kaustubhjogle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kaustubhjogle" height="30" width="40" /></a>
 <a href="https://twitter.com/JogleKaustubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JogleKaustubh" height="30" width="40" /></a>
@@ -26,7 +28,7 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <a href="https://instagram.com/kaustubh_jogle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubh_jogle" height="30" width="40" /></a>
 </p>
 
-### Badges
+<hr>
 
 <a href="http://www.github.com/Kaustubhjogle"><img src="https://activity-graph.herokuapp.com/graph?username=Kaustubhjogle&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

@@ -1,35 +1,55 @@
-Hi, my name is Kaustubh Jogle <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-===============================
-
-I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning Web development
-
-* ✉️  You can contact me at [kaustubhrjogle@gmail.com](mailto:kaustubhrjogle@gmail.com)
-* ⚡  Computer Engineering | TSEC '23
-
-<hr>
-
-<h3 align="center">Skills</h3>
-
 <p align="center">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+  <img src="https://github.com/Kaustubhjogle/Kaustubhjogle/raw/main/banner.gif" alt="Banner">
 </p>
 
-<hr>
+<h1 align="center">Hi 👋, I’m Kaustubh Jogle</h1>
+<h3 align="center">Full‑Stack Developer | React & Spring Boot | Passionate about building scalable, user‑centric web applications</h3>
 
-<h3 align="center">Connect with me:</h3>
+- 🔭 Software Developer at IIFL Finance
+
+- 📍 Mumbai, India
+
+---
+
+## 🔧 Tech Stack
+
 <p align="center">
-<a href="https://dev.to/kaustubhjogle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kaustubhjogle" height="30" width="40" /></a>
-<a href="https://twitter.com/JogleKaustubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JogleKaustubh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kaustubhjogle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubhjogle" height="30" width="40" /></a>
-<a href="https://instagram.com/kaustubh_jogle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubh_jogle" height="30" width="40" /></a>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <!-- DevOps & Testing -->
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<hr>
+---
 
-<a href="http://www.github.com/Kaustubhjogle"><img src="https://activity-graph.herokuapp.com/graph?username=Kaustubhjogle&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 📊 GitHub Stats
 
-<a href="https://github.com/Kaustubhjogle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhjogle&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhjogle&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals-orange" alt="Postman Cert"/>
+  <img src="https://img.shields.io/badge/Google%20UX%20Design-Coursera-blue" alt="Google UX Cert"/>
+</p>
+
+---
+
+## ✉️ Contact & Availability
+
+- 📫 Email: <kaustubhrjogle@gmail.com>
+- 🔗 LinkedIn: [linkedin.com/in/kaustubhjogle](https://linkedin.com/in/kaustubhjogle)  
+
+I’m actively seeking new opportunities in full‑stack or frontend roles. Let’s build something great together! 🚀
